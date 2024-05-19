@@ -1,5 +1,5 @@
-DROP TABLE IF EXIST entries;
-DROP TABLE IF EXIST transfers;
-DROP TABLE IF EXIST accounts;
-
+DROP TABLE IF EXISTS entries;
+DROP TABLE IF EXISTS transfers;
+DROP TABLE IF EXISTS accounts;
+DROP TYPE IF EXISTS "Currency";
 
